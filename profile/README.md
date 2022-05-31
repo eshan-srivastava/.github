@@ -23,7 +23,7 @@ Leptron or Leptron Dynamics or Leptron techologies is and Indian based blockchai
 | --- | --- |
 | Defi | ▫ On the verge to create the most transpernt and secure banking system without collateral |
 | Metaverse | ▫ Creating P2E games and integrating real-life assets such as lands & houses that helps increasing transperency in realestate |
-| SCMB | Helps in managing the complex supplychain in any field which can help ease credit payment and ebolish counterfeiting |
-| NIZKP | Leptron is also working on Non-interactive Zero knowledge proof which in future can help commit transactions without proving the"keys", Leptron is also working on implimentation of post quantum cryptography with the same |
+| SCMB | ▫ Helps in managing the complex supplychain in any field which can help ease credit payment and ebolish counterfeiting |
+| NIZKP | ▫ Leptron is also working on Non-interactive Zero knowledge proof which in future can help commit transactions without proving the"keys", Leptron is also working on implimentation of post quantum cryptography with the same |
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
