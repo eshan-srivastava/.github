@@ -29,7 +29,7 @@ Leptron or Leptron Dynamics or Leptron techologies is and Indian based blockchai
   
 >### Current technologies and projects Leptron is working on
 
-*Leptron is currently engaged in 4 Major domains*
+*Leptron is currently engaged in 4 Major domains* 
   
 > Current projects
   
