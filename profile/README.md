@@ -1,4 +1,4 @@
-## <h2 align="center"> Welcome to the Official Github organization page of Leptron </h1>
+## <h1 align="center"> Welcome to the Official Github organization page of Leptron </h1>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
