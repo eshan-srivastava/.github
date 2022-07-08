@@ -27,6 +27,13 @@
 Leptron or Leptron Dynamics or Leptron techologies is and Indian based blockchain startup who specialize in Defi or decentralized finance, web3 data analytics, security auding and day-today implimentation of blockchain. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+>Links to our socials:
+
+- *LinkedIn:* https://www.linkedin.com/company/leptron
+- *Twitter:* https://twitter.com/Leptron_Tech
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
   
 >### Current technologies and projects Leptron is working on
 
