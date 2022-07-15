@@ -22,7 +22,7 @@
 ![Copy of LeptronHomePage#Main#FINAL-GIF-Final (1)](https://user-images.githubusercontent.com/86551444/179297314-1711c55e-114b-4870-911c-8965bb133baa.gif)
 
 
-<-- ![Copy of LeptronHomePage#Main#FINAL-GIF-Final](https://user-images.githubusercontent.com/86551444/179296685-4584ee05-0637-4f01-8229-0cc54fc32611.gif) -->
+<!-- ![Copy of LeptronHomePage#Main#FINAL-GIF-Final](https://user-images.githubusercontent.com/86551444/179296685-4584ee05-0637-4f01-8229-0cc54fc32611.gif) -->
 <!-- ![Copy of LeptronHomePage#Main#FINAL-GIF](https://user-images.githubusercontent.com/86551444/179294806-1703cc28-a927-4eb4-9b40-5f1fe1d4917c.gif) -->
 <!-- https://user-images.githubusercontent.com/86551444/179294938-3d3d0329-82b6-4741-8a77-e41146d4a6db.mp4 -->
 
