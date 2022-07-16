@@ -57,3 +57,5 @@ Leptron or Leptron Dynamics or Leptron techologies is and Indian based blockchai
 | NIZKP | ▫ Leptron is also working on Non-interactive Zero knowledge proof |
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<script async src="https://wizard.openzeppelin.com/build/embed.js"></script>
