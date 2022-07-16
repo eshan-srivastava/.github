@@ -58,4 +58,3 @@ Leptron or Leptron Dynamics or Leptron techologies is and Indian based blockchai
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<script async src="https://wizard.openzeppelin.com/build/embed.js"></script>
