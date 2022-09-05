@@ -32,7 +32,7 @@
   
 >### Introduction
 
-Leptron or Leptron Dynamics or Leptron techologies is and Indian based blockchain startup who specialize in Defi or decentralized finance, web3 data analytics, security auding and day-today implimentation of blockchain. 
+Leptron or Leptron Dynamics or Leptron technologies is an Indian based blockchain startup who specialize in Defi or decentralized finance, web3 data analytics, security auditing and day-to-day implementation of blockchain. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -51,9 +51,9 @@ Leptron or Leptron Dynamics or Leptron techologies is and Indian based blockchai
   
 | Domains | Description |
 | --- | --- |
-| Defi | ▫ On the verge to create the most transpernt and secure banking system without collateral |
-| Metaverse | ▫ Creating P2E games and integrating real-life assets such as lands & houses that helps increasing transperency in realestate |
-| SCMB | ▫ Helps in managing the complex supplychain in any field which can help ease credit payment and ebolish counterfeiting |
+| Defi | ▫ On the verge to create the most transparent and secure banking system without collateral |
+| Metaverse | ▫ Creating P2E games and integrating real-life assets such as lands & houses that helps increasing transparency in real estate |
+| SCMB | ▫ Helps in managing the complex supply chain in any field which can help ease credit payment and abolish counterfeiting |
 | NIZKP | ▫ Leptron is also working on Non-interactive Zero knowledge proof |
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
